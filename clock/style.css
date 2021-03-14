@@ -1,0 +1,23 @@
+#clock{
+    width:400px;
+    height:200px;
+    background-color: rgb(250, 110, 255);
+    margin:200px auto;
+    padding: 40px;
+    opacity: 0.7;
+    text-align: center;
+    border-radius: 40px;
+   
+    
+}
+
+    
+span{
+padding:5px;
+font-family: sans-serif;
+font-size:50px;
+font-weight:bold;
+}
+body{
+    background-image: url(./plush-design-studio-515757-unsplash.jpg)
+}
